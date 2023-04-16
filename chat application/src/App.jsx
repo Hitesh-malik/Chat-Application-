@@ -13,3 +13,7 @@ const App = () => {
 }
 
 export default App
+
+
+// 22 mint
+// https://www.youtube.com/watch?v=k4mjF4sPITE&t=37s
